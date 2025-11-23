@@ -4,35 +4,35 @@ A comprehensive collection of Jupyter notebooks covering fundamental mathematica
 
 ## 📚 Lab Sessions Overview
 
-### [Lab 2: Linear Algebra Fundamentals](lab_2.ipynb)
+### [Lab 2: Linear Algebra Fundamentals](Lab_2.ipynb)
 - **Linear Combinations, Span, and Basis**
 - 3D Vector Visualization
 - Shape Morphing and Vector Spaces
 - Face Model Representation
 - Linear Combinations of Faces
 
-### [Lab 3: Matrix Operations & Linear Transformations](lab_3.ipynb)
+### [Lab 3: Matrix Operations & Linear Transformations](Lab_3.ipynb)
 - **Row and Column Spaces**
 - Matrix Multiplication Properties
 - Vectorized Coding Practices
 - Linear Transformations (Rotation, Scaling, Shear)
 - Geometric Transformations on Face Models
 
-### [Lab 4: Numerical Efficiency & Image Processing](lab_4.ipynb)
+### [Lab 4: Numerical Efficiency & Image Processing](Lab_4.ipynb)
 - **Code Efficiency and Timing**
 - Diagonal Matrices and Broadcasting
 - Vectorized Operations
 - Image Representation and Processing
 - Color Channel Manipulations
 
-### [Lab 5: Linear Systems & Applications](lab_5.ipynb)
+### [Lab 5: Linear Systems & Applications](Lab_5.ipynb)
 - **Solving Linear Equations**
 - Matrix Inversion vs. Direct Solving
 - Singular and Near-Singular Matrices
 - Perturbation Analysis
 - Face Reconstruction using Linear Systems
 
-### [Lab 6: Least Squares & Optimization](lab_6.ipynb)
+### [Lab 6: Least Squares & Optimization](Lab_6.ipynb)
 - **Least Squares Method**
 - Overdetermined Systems
 - Noise Reduction Techniques
@@ -85,11 +85,11 @@ After completing these labs, you will understand:
 ```
 mathematics-for-ai-labs/
 │
-├── lab_2.ipynb          # Linear combinations & face models
-├── lab_3.ipynb          # Matrix spaces & transformations
-├── lab_4.ipynb          # Efficiency & image processing
-├── lab_5.ipynb          # Linear systems & applications
-├── lab_6.ipynb          # Least squares & optimization
+├── Lab_2.ipynb          # Linear combinations & face models
+├── Lab_3.ipynb          # Matrix spaces & transformations
+├── Lab_4.ipynb          # Efficiency & image processing
+├── Lab_5.ipynb          # Linear systems & applications
+├── Lab_6.ipynb          # Least squares & optimization
 ├── face_data.py        # Face model dataset
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
