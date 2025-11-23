@@ -113,14 +113,6 @@ The concepts covered in these labs form the foundation for:
 4. **Check the math**: Understand the mathematical reasoning behind each operation
 5. **Apply to new problems**: Use these techniques in your own AI projects
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests for:
-- Additional examples and applications
-- Improved visualizations
-- Performance optimizations
-- Documentation enhancements
-
 
 ## 🙏 Acknowledgments
 
